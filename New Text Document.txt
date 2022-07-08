@@ -1,4 +1,10 @@
 My name is Nhu
 My name is Ta Quang Hoang
+<<<<<<< HEAD
 My name is My
 Hello
+=======
+Nhuuuuu
+My name is My
+
+>>>>>>> 6d37850e3c2551cf70e59326340f99e06260cc8e
